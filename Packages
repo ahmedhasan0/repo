@@ -1,0 +1,14 @@
+Package: com.tsunami.v5
+Version: 1.6.0
+Architecture: iphoneos-arm
+Maintainer: TSUNAMI VIP <virgalhack0@gmail.com>
+Depends: mobilesubstrate
+Filename: repo/debs/my.v5.tsunami_1.6.0_iphoneos-arm.deb
+Size: 1013
+MD5sum: 2ce20f86da0c76e7813b2c9db3de994d
+SHA1: 598660fdcb5040cb7cf6ddf13c4aa789569afada
+SHA256: 8e88905164f533b4e1d29ad71ec464309569a6edcca5cf9096f71a9b59f97cdc
+Section: Tweaks (Hacks)
+Description: FUCK YOU PUBGM
+Author: TSUNAMI VIP <virgalhack0@gmail.com>
+Name: PUBGM TSUNAMI V5
